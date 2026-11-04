@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Flora">
+  <rect width="32" height="32" rx="7" fill="#1C2416"/>
+  <g fill="#C46B5A">
+    <ellipse cx="16" cy="9.2" rx="4.1" ry="5.4"/>
+    <ellipse cx="16" cy="22.8" rx="4.1" ry="5.4"/>
+    <ellipse cx="9.2" cy="16" rx="5.4" ry="4.1"/>
+    <ellipse cx="22.8" cy="16" rx="5.4" ry="4.1"/>
+  </g>
+  <circle cx="16" cy="16" r="3.15" fill="#F4EFE6"/>
+  <circle cx="16" cy="16" r="1.45" fill="#3D5C3A"/>
+</svg>
